@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I'm a [Your Job Title/Role, e.g., Software Develop
 ---
 
 ### 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Randima-Nikapitiya&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanuz12&show_icons=true&theme=radical)
 
 ---
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randima-Nikapitiya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanuz12&layout=compact&theme=radical)
 
 ---
 
